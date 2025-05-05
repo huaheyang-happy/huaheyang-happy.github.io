@@ -56,19 +56,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-won-the-innovation-scholarship-2-000-rmb",
           title: 'I won the Innovation Scholarship (2,000 RMB).',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-won-the-shiing-shen-chern-future-star-award-30-000-rmb",
+          section: "News",},{id: "news-i-won-the-shiing-shen-chern-future-star-award-30-000-rmb",
           title: 'I won the Shiing-Shen Chern Future Star Award (30,000 RMB).',
           description: "",
           section: "News",},{id: "news-i-won-the-shiing-shen-chern-international-exchange-award-90-000-rmb",
           title: 'I won the Shiing-Shen Chern International Exchange Award (90,000 RMB).',
-          description: "",
-          section: "News",},{id: "news-we-won-the-third-prize-of-the-2nd-kai-feng-cup-university-students-biomedicine-innovation-competition-5-000-rmb",
-          title: 'We won the Third Prize of the 2nd ”Kai Feng Cup” University Students’...',
           description: "",
           section: "News",},{id: "news-we-won-the-third-prize-of-the-2nd-kai-feng-cup-university-students-biomedicine-innovation-competition-5-000-rmb",
           title: 'We won the Third Prize of the 2nd ”Kai Feng Cup” University Students’...',
@@ -123,35 +115,28 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%68%75%61%68%65%79%61%6E%67@%6D%61%69%6C.%6E%61%6E%6B%61%69.%65%64%75.%63%6E", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/https://github.com/huaheyang-happy", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=AVmNVMgAAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://biox-nku.cn/", "_blank");
         },
       },{
       id: 'light-theme',
