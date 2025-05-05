@@ -21,7 +21,7 @@
     {
       "institution": "Perelman School of Medicine, University of Pennsylvania",
       "location": "Philadelphia, USA",
-      "area": "Bioinformatics",
+      "area": "Bioinformatics, supervised by <a href=\"http://tanlab4generegulation.org/\">Prof. Kai Tan</a>",
       "studyType": "Visiting Student",
       "startDate": "2025-03-01",
       "endDate": "2025-07-31"
@@ -29,7 +29,7 @@
     {
       "institution": "School of Mathematical Sciences, Nankai University",
       "location": "Tianjin, China",
-      "area": "Bioinformatics",
+      "area": "Bioinformatics, supervised by <a href=\"https://my.nankai.edu.cn/sms/csq/list.htm\">Prof. Shengquan Chen</a>",
       "studyType": "Ph.D.",
       "startDate": "2025-09-01",
       "endDate": "now"
@@ -77,13 +77,13 @@
       "title": "Shiing-Shen Chern International Exchange Award",
       "date": "2024",
       "awarder": "School of Mathematics Sciences, Nankai University",
-      "summary": "This scholarship provides 90,000 RMB."
+      "summary": "This scholarship provided 90,000 RMB."
     },
     {
       "title": "Third Prize of the 2nd ”Kai Feng Cup” University Students’ Biomedicine Innovation Competition",
       "date": "2024",
       "awarder": "Nankai University",
-      "summary": "This scholarship provides 5,000 RMB. Sijie Li,Songming Tang, Siyu Li, Yuhang jia, Yongkang Li, Huangpei Qing and I won this honor."
+      "summary": "This scholarship provided 5,000 RMB. Sijie Li,Songming Tang, Siyu Li, Yuhang jia, Yongkang Li, Huangpei Qing and I won this honor."
     },
     {
       "title": "Second Prize in the 7th Nankai University “President’s Cup” Innovation and Entrepreneurship Competition",
