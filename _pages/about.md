@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently an undergraduate in the [School of Mathematical Sciences](https://math.nankai.edu.cn/) at Nankai University. I will be pursuing my PhD degree under the supervision of [Prof. Shengquan Chen](https://my.nankai.edu.cn/sms/csq/list.htm).  My research focuses on developing machine learning methods to uncover transcriptional regulatory mechanisms and their dynamic changes along aging and various single-cell omics problems. Specifically, I am interested in:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Deciphering transcriptional regulatory mechanisms.** Transcriptional regulation is a central process in biological systems. I interested in developing methods to model transcriptional regulatory networks leveraging single-cell multi-omics data.
+- **Identifying the dynamic changes during the aging process.** Aging is a fundamental biological process driving functional decline and numerous diseases. I am interested in leveraging single-cell multi-omics data to identify and model the cellular dynamics that characterize the aging trajectory.
+- **Cell type-specific pattern elucidation.** I am interested in exploring cellular heterogeneity and biological implications in single-cell omics data, such as cell type annotation, multi-omics data integration, batch correction, cell type specific feature identication and label transfer problem.
