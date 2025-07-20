@@ -65,6 +65,12 @@ ninja.data = [{
           section: "News",},{id: "news-we-won-the-third-prize-of-the-2nd-kai-feng-cup-university-students-biomedicine-innovation-competition-5-000-rmb",
           title: 'We won the Third Prize of the 2nd ”Kai Feng Cup” University Students’...',
           description: "",
+          section: "News",},{id: "news-fountain-was-accepted-by-nature-machine-intelligence",
+          title: 'Fountain was accepted by Nature Machine Intelligence.',
+          description: "",
+          section: "News",},{id: "news-we-won-the-grand-prize-of-the-challenge-cup-competition-in-tianjin-which-is-the-best-award-in-this-competition",
+          title: 'We won the Grand Prize of the ‘Challenge Cup Competition in Tianjin’, which...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -122,7 +128,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/huaheyang-happy", "_blank");
+          window.open("https://github.com/huaheyang-happy", "_blank");
         },
       },{
         id: 'social-scholar',
