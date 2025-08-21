@@ -21,7 +21,7 @@ announcements:
 ---
 
 
-I am currently an undergraduate in the [School of Mathematical Sciences](https://math.nankai.edu.cn/) at Nankai University. I will be pursuing my PhD degree under the supervision of [Prof. Shengquan Chen](https://my.nankai.edu.cn/sms/csq/list.htm).  My research focuses on developing machine learning methods to uncover transcriptional regulatory mechanisms and their dynamic changes along aging and various single-cell omics problems. Specifically, I am interested in:
+I am currently an PhD student in the [School of Mathematical Sciences](https://math.nankai.edu.cn/) at Nankai University, under the supervision of [Prof. Shengquan Chen](https://my.nankai.edu.cn/sms/csq/list.htm).  I obtained my B.S.(2025) in Shiing-shen Chern Class from School of Mathematical Sciences, Nankai University. I used to be a visiting student in Perelman School of Medicine, University of Pennsylvania, in 2025, supervised by [Prof. Kai Tan](http://tanlab4generegulation.org/). My research focuses on developing machine learning methods to uncover celluar heterogeneity and their dynamic changes along aging and various single-cell omics problems. Specifically, I am interested in:
 
 - **Deciphering transcriptional regulatory mechanisms.** Transcriptional regulation is a central process in biological systems. I interested in developing methods to model transcriptional regulatory networks leveraging single-cell multi-omics data.
 - **Identifying the dynamic changes during the aging process.** Aging is a fundamental biological process driving functional decline and numerous diseases. I am interested in leveraging single-cell multi-omics data to identify and model the cellular dynamics that characterize the aging trajectory.
